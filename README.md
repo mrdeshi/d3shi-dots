@@ -4,13 +4,12 @@
 
 ## obsidian configuration:
     git checkout obsidian
+    cd obsidian-dots
     copy the .config folder to your vault.
     
     credit: [d3shi](https://github.com/MrDeshi)
 
 ## hyprland configuration:
-    git checkout hyprland
-    see the instructions in the README.md file.
 
     credit: [end_4](https://github.com/end-4)
     
@@ -34,7 +33,8 @@ For my personalized setup:
 
     cd ~/Downloads   # Let's not trash your home folder
     git clone https://github.com/MrDeshi/d3shi-dots.git
-    cd hyprland
+    git checkout hypr
+    cd hypr-dots
     ./install.sh
 
 
