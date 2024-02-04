@@ -7,11 +7,10 @@
     cd obsidian-dots
     copy the .config folder to your vault.
     
-    credit: [d3shi](https://github.com/MrDeshi)
+credit:
+- [d3shi](https://github.com/MrDeshi)
 
 ## hyprland configuration:
-
-    credit: [end_4](https://github.com/end-4)
     
 <div align="center">
   <h1>「 illogical_impulse 」personalized by d3shi</h1>
@@ -19,6 +18,7 @@
 
 ### Description
 - [AGS](https://github.com/Aylur/ags/)-powered.
+- credit: [end_4](https://github.com/end-4/)
 - Scalable. Light/Dark mode support. Material colors adapt to your wallpaper
 
 ### Preview
