@@ -1,0 +1,9 @@
+{
+  "amazonRegion": "italy",
+  "highlightsFolder": "books highlights",
+  "lastSyncMode": "amazon",
+  "isLoggedIn": true,
+  "syncOnBoot": true,
+  "downloadBookMetadata": true,
+  "lastSyncDate": "2024-02-20T21:57:08.931Z"
+}
