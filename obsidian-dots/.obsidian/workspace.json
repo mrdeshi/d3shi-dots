@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1283a0ebc05e30ce",
+        "id": "1d6932c57a98d8a8",
         "type": "tabs",
         "children": [
           {
-            "id": "2561aefcb50e7e80",
+            "id": "9654b64c1363fee5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sanctum sanctorum/2024-W08.md",
+                "file": "zettelkasten atoms/citations.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sanctum sanctorum/2024-W08.md"
+                "file": "zettelkasten atoms/citations.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sanctum sanctorum/2024-W08.md",
+                "file": "zettelkasten atoms/citations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sanctum sanctorum/2024-W08.md",
+                "file": "zettelkasten atoms/citations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,46 +168,48 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "2561aefcb50e7e80",
+  "active": "9654b64c1363fee5",
   "lastOpenFiles": [
-    "sanctum sanctorum/2024-02-21.md",
+    "dataview querys/sections/computer architecture.md",
+    "canvas/mathematics mind map.canvas",
+    "canvas/Untitled.canvas",
+    "canvas/Bash mind map.canvas",
+    "dataview querys/sections/cinema gallery.md",
+    "movies/Spider-Man.md",
+    "movies/John Wick.md",
+    "movies/A Beautiful Mind.md",
+    "movies/About Time.md",
+    "movies/The Theory of Everything.md",
+    "dataview querys/sections/entertainment.md",
+    "zettelkasten atoms/nMOS.md",
+    "sanctum sanctorum/2024-02-28.md",
+    "sanctum sanctorum/2024-02-27.md",
+    "sanctum sanctorum/2024-02-26.md",
+    "zettelkasten atoms/monopoly java.md",
+    "sanctum sanctorum/2024-02-25.md",
     "sanctum sanctorum/2024-W08.md",
-    "sanctum sanctorum/2024-02-20.md",
-    "sanctum sanctorum/2024-02-19.md",
-    "books highlights/Clementini-Lultimo canto del Tempo.md",
-    "dataview querys/sections/bookshelf.md",
-    "templates/Atom RATIO book.md",
-    "templates/Atom RATIO.md",
-    "templates/Atom RATIO computer architecture.md",
-    "templates/Atom RATIO discrete mathematics.md",
-    "templates/Atom MATERIAL mortal.md",
-    "templates/Atom MATERIAL immortal.md",
-    "templates/Atom BRAINSTORM.md",
     "zettelkasten atoms/daily discipline.md",
-    "zettelkasten atoms/vault maintenance.md",
-    "books highlights",
-    "books/What is Mathematics - Richard Courant Herbert Robbins.md",
-    "templates/Atom weekly tasks.md",
-    "2024-W08.md",
-    "dataview querys/sections/arch (btw).md",
-    "dataview querys/sections/bash.md",
-    "dataview querys/sections/algorithms.md",
-    "dataview querys/root/worldchronicles.md",
-    "dataview querys/root/thedreaming.md",
-    "dataview querys/root/pensatoio.md",
+    "dataview querys/sections/java programming.md",
     "dataview querys/root/mindpalace.md",
-    "zettelkasten atoms/vault architecture.md",
+    "zettelkasten atoms/discrete mathematics.md",
+    "dataview querys/sections/algorithms.md",
+    "sanctum sanctorum/2024-02-20.md",
+    "sanctum sanctorum/2024-02-21.md",
+    "sanctum sanctorum/2024-02-22.md",
+    "sanctum sanctorum/2024-02-23.md",
+    "sanctum sanctorum/2024-02-24.md",
+    "materials/Pasted image 20240222093748.png",
+    "materials/Pasted image 20240221152906.png",
+    "materials/Pasted image 20240221160855.png",
+    "materials/Pasted image 20230929114457.png",
+    "materials/Pasted Image 20230929134336_986.png",
+    "materials/Pasted Image 20230929194044_399.png",
+    "materials/Pasted Image 20230929200358_712.png",
+    "materials/Pasted image 20231003092139.png",
+    "materials/Pasted image 20231003092559.png",
+    "materials/Pasted image 20231006104419.png",
+    "books highlights",
     "books",
-    "Pasted image 20240219153651.png",
-    "Pasted image 20240219152408.png",
-    "materials/Pasted image 20231013153140.png",
-    "materials/Pasted image 20231009145805.png",
-    "materials/Pasted image 20231009145734.png",
-    "materials/Pasted image 20231009150032.png",
-    "materials/Pasted image 20231003093538.png",
-    "materials/Pasted image 20231019091046.png",
-    "materials/Pasted image 20231019084413.png",
-    "materials/Pasted image 20231017115437.png",
     "referenceNotes",
     "referenceNotes/materials/algebra_lineare/Presentazione standard di PowerPoint - AL Presentazione.pdf",
     "materials/2023_07_15 12_40 Office Lens (1).pdf",
@@ -216,8 +218,6 @@
     "referenceNotes/materials/precalcolo/serie/Serie_01_funzioni_generale_precalcolo_risultati.pdf",
     "referenceNotes/materials/precalcolo/serie/Analisi1_C1_Numeri_reali_e_trigonometria.pdf",
     "referenceNotes/materials/precalcolo/serie",
-    "canvas/mathematics mind map.canvas",
-    "canvas/Untitled.canvas",
     "canvas/prova.canvas"
   ]
 }

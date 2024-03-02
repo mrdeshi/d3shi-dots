@@ -67,6 +67,6 @@
   "newFileFolderPath": "zettelkasten atoms",
   "alwaysUpdateLinks": true,
   "propertiesInDocument": "visible",
-  "attachmentFolderPath": "referenceNotes/materials",
+  "attachmentFolderPath": "materials",
   "promptDelete": false
 }
