@@ -11,9 +11,3 @@
     
 credit:
 - [d3shi](https://github.com/MrDeshi)
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/mrdeshi/d3shi-dots/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
-
-
